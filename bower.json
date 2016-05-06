@@ -1,0 +1,20 @@
+{
+  "name": "react-project",
+  "authors": [
+    "Karl Sanford <karl@sanfordconsulting.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.0.2"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "a react express app",
+  "main": "server/main.js",
+  "dependencies": {
+    "browser-sync": "^2.12.5",
+    "browserify": "^13.0.1",
+    "ejs": "^2.4.1",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.29",
+    "react": "^15.0.2",
+    "reactify": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
